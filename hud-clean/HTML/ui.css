@@ -1,0 +1,62 @@
+.container-fluid {
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    right: 0vw;
+    bottom: 0.6vw;
+    transition: left 1.0s;
+}
+
+.container {
+    display: inline-block;
+}
+.progress {
+    position: absolute;
+    z-index: -1;
+    height: 0.8vw;
+    width: 8vw;
+}
+#progress-hunger {
+    margin-top: -0.9vw;
+    margin-right: 0vw;
+    right: 1.3vw;
+}
+
+#progress-thirst {
+    margin-left: -9.1vw;
+
+}
+.field {
+    margin: 0;
+    padding: 0;
+    height: 0.5vw;
+    width: 0.5vw;
+    border-radius: 0.5vw;
+    transition: width 1.0s;
+}
+#hunger {
+    float: left;
+    vertical-align: center;
+    background-color: #ee9714;
+}
+#thirst {
+    float: left;
+    vertical-align: center;
+    background-color: #3498DB ;
+}
+
+.border {
+    height: 2.3vw;
+    width: 8.5vw;
+    border-radius: 0.5vw;
+    background-color: #2e2e2f;
+    
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    right: 1.1vw;
+    bottom: 0.7vw;
+    transition: left 1.0s;
+}
