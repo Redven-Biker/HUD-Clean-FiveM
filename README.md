@@ -1,6 +1,4 @@
-![fivem](https://i.imgur.com/6VJgEpV.png)
-
-![fivem](https://i.imgur.com/YRNqdNA.png)
+Discord : https://discord.gg/3rm8Jdf2Vq
 
 
 
